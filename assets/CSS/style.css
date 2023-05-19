@@ -11,6 +11,9 @@
   border:solid #FFFFFF;
   border-radius: 20px;
 }
+menu li a:hover{
+color: black;
+}
 #menu img{
   width:200px;
   padding-right: 1000px;
@@ -38,3 +41,34 @@ h4{
 h6{
   font-size: 20px;
 }
+li a{
+  text-decoration: none;
+ color:white
+}
+.label-nome {
+  color: rgb(255, 255, 255); /* Cor do texto para o label "Nome" */
+}
+
+.input-cores {
+  color: rgb(255, 255, 255); /* Cor do texto para os inputs */
+  background-color: #ffffff; /* Cor de fundo dos inputs */
+}
+
+.label-gmail {
+  color: rgb(255, 255, 255); /* Cor do texto para o label "Gmail" */
+}
+
+.label-assunto {
+  color: rgb(255, 255, 255); /* Cor do texto para o label "Assunto" */
+}
+
+.textarea-cores {
+  color: rgb(255, 255, 255); /* Cor do texto para o textarea */
+  background-color: #ffffff; /* Cor de fundo do textarea */
+}
+h2{
+  font-size: 24px;
+  padding-left:45px ;
+  padding-right: 1500px;
+}
+
